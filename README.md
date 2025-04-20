@@ -262,7 +262,7 @@ Durante a execução do projeto, alguns problemas podem surgir:
 
 
 ### ✨ Observações
-Os dados foram disponibilizados pela Alura como parte de um desafio de ciências de dados da [Alura](https://www.alura.com.br/)
+Os dados foram disponibilizados como parte de um desafio de ciências de dados da [Alura](https://www.alura.com.br/)
 
 
 ### 🤝 Contribuições
