@@ -1,9 +1,10 @@
+### 📊 Análise de Dados de Vendas de Lojas
 ## 🛒 Challenge - Alura Store - Análise de Lojas
 
 Este projeto realiza uma análise exploratória de dados de vendas de quatro lojas, utilizando a biblioteca Pandas para manipulação de dados e Matplotlib para visualização. O objetivo é fornecer insights sobre o faturamento, as vendas por categoria, a média de avaliação dos clientes, os produtos mais e menos vendidos e o frete médio de cada loja.
 
 
-### 🔍 Visão Geral do Projeto
+## 🔍 Visão Geral do Projeto
 
 O script Python (`.ipynb `) realiza as seguintes etapas:
 
@@ -16,7 +17,6 @@ O script Python (`.ipynb `) realiza as seguintes etapas:
 7.  **Análise Geográfica das Vendas:** Utiliza as coordenadas de latitude e longitude presentes nos dados para visualizar a distribuição geográfica das vendas, o faturamento por localização e a distribuição das avaliações.
 
 
-### 📊 Análise de Dados de Vendas de Lojas
 ## ⬇️ Instalação
 
 Para executar este projeto, você precisará ter o Python instalado em seu ambiente. Além disso, as seguintes bibliotecas são necessárias:
@@ -31,7 +31,7 @@ pip install pandas matplotlib
 ````
 
 
-### 📌 Dependências
+## 📌 Dependências
 As seguintes bibliotecas Python são dependências deste projeto:
 
 * pandas (>= 1.0.0): Utilizada para leitura e manipulação dos dados das lojas a partir de arquivos CSV hospedados em URLs.
@@ -39,7 +39,7 @@ As seguintes bibliotecas Python são dependências deste projeto:
 * numpy (>= 1.18.0): Usada internamente pelo Matplotlib para cálculos numéricos, como o cálculo da média de faturamento para a linha de referência no gráfico.
 
 
-### ⚙️ Execução no Google Colab
+## ⚙️ Execução no Google Colab
 O Google Colab é um ambiente Jupyter Notebook hospedado na nuvem que permite executar código Python sem a necessidade de configuração local. Para executar este projeto no Colab, siga estes passos:
 1.	Abra o Google Colab: Acesse https://colab.research.google.com/ no seu navegador.
 2.	Crie um novo notebook: Clique em "Novo notebook" no canto inferior direito da tela.
@@ -261,19 +261,19 @@ Durante a execução do projeto, alguns problemas podem surgir:
 4.	Incompatibilidade de versões das bibliotecas.
 
 
-### ✨ Observações
+## ✨ Observações
 Os dados foram disponibilizados como parte de um desafio de ciências de dados da [Alura](https://www.alura.com.br/)
 
 
-### 🤝 Contribuições
+## 🤝 Contribuições
 Contribuições para este projeto são bem-vindas. Sinta-se à vontade para propor melhorias, ou enviar pull requests com suas modificações.
 
 
-### 💾 Licença
+## 💾 Licença
 Este projeto não possui uma licença específica definida. O uso e distribuição devem seguir as políticas dos dados originais e as diretrizes de uso do GitHub.
 
 
-### 👩‍💻 Sobre a Autora
+## 👩‍💻 Sobre a Autora
 
 <img src="https://avatars.githubusercontent.com/u/180755020?v=4" height="100"/>
 
