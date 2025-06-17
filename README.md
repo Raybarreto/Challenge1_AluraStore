@@ -23,7 +23,7 @@ Para executar este projeto, você precisará ter o Python instalado em seu ambie
 
 -   **Pandas**: Para manipulação e análise de dados tabulares.
 -   **Matplotlib**: Para criação de gráficos e visualizações.
--   **NumPy**: Embora não explicitamente importado no código fornecido, o Matplotlib frequentemente o utiliza internamente para operações numéricas.
+-   **NumPy**: Embora não explicitamente importado no código fornecido, o `Matplotlib` frequentemente o utiliza internamente para operações numéricas.
 
 Você pode instalar essas bibliotecas utilizando o pip, o gerenciador de pacotes do Python. Abra seu terminal ou prompt de comando e execute o seguinte comando:
 ```bash
@@ -34,9 +34,9 @@ pip install pandas matplotlib
 ## 📌 Dependências
 As seguintes bibliotecas Python são dependências deste projeto:
 
-* pandas (>= 1.0.0): Utilizada para leitura e manipulação dos dados das lojas a partir de arquivos CSV hospedados em URLs.
-* matplotlib (>= 3.0.0): Empregada para gerar gráficos de barras que visualizam o faturamento por loja, as vendas por categoria e a média de avaliação das lojas.
-* numpy (>= 1.18.0): Usada internamente pelo Matplotlib para cálculos numéricos, como o cálculo da média de faturamento para a linha de referência no gráfico.
+* `pandas` (>= 1.0.0): Utilizada para leitura e manipulação dos dados das lojas a partir de arquivos CSV hospedados em URLs.
+* `matplotlib` (>= 3.0.0): Empregada para gerar gráficos de barras que visualizam o faturamento por loja, as vendas por categoria e a média de avaliação das lojas.
+* `numpy` (>= 1.18.0): Usada internamente pelo Matplotlib para cálculos numéricos, como o cálculo da média de faturamento para a linha de referência no gráfico.
 
 
 ## ⚙️ Execução no Google Colab
