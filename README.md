@@ -45,7 +45,7 @@ O Google Colab é um ambiente Jupyter Notebook hospedado na nuvem que permite ex
 2.	Crie um novo notebook: Clique em "Novo notebook" no canto inferior direito da tela.
 3.	Copie e cole o código: Copie todo o código Python fornecido e cole em uma célula de código no seu notebook do Colab.
 4.	Execute as células: Execute as células de código sequencialmente, clicando no botão de "play" (executar) ao lado de cada célula ou pressionando Shift + Enter.
-O Colab já possui as bibliotecas Pandas e Matplotlib pré-instaladas, então você não precisará executar o comando !pip install novamente, a menos que necessite de versões específicas ou outras bibliotecas adicionais. A linha !pip install matplotlib no código é redundante no ambiente Colab padrão.
+O Colab já possui as bibliotecas Pandas e Matplotlib pré-instaladas, então você não precisará executar o comando `!pip install` novamente, a menos que necessite de versões específicas ou outras bibliotecas adicionais. A linha `!pip install matplotlib` no código é redundante no ambiente Colab padrão.
 
 
 ### 💡 Explicação do Código
